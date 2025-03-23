@@ -1,0 +1,13 @@
+# Ignore Visual Studio temporary files
+backend/Backend/.vs/
+backend/Backend/bin/
+backend/Backend/obj/
+backend/Backend/*.user
+
+# Ignore Node.js dependencies
+frontend/node_modules/
+frontend/.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
